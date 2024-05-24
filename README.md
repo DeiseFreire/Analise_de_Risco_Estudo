@@ -1,3 +1,5 @@
+![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) [![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://pt.overleaf.com/)
+
 ## Estudo Comparativo de Métodos de Análise de Riscos de Segurança da Informação
 
 ## Descrição do Código:
