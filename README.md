@@ -4,7 +4,7 @@
 
 ## Descrição do Código
 
-Este repositório contém o código LaTeX para o estudo dirigido do artigo "Estudo Comparativo de Métodos de Análise de Riscos de Segurança da Informação (Tradução)". É um estudo dirigido sobre a importância da análise de risco de TI para pequenas empresas.
+Este repositório contém o código LaTeX do estudo dirigido do artigo "Estudo Comparativo de Métodos de Análise de Riscos de Segurança da Informação (Tradução)". É um estudo dirigido sobre a importância da análise de risco de TI para pequenas empresas.
 
 ## Funcionalidade do Código
 
