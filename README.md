@@ -28,14 +28,17 @@ O conteúdo do trabalho é estruturado usando o ambiente itemize. O documento ap
 ## Carregamento de pacotes LaTeX
 
 `inputenc`: Suporte à codificação UTF-8.
+
 `babel`: Configuração do idioma português brasileiro.
+
 `hyperref`: Geração de links hipertexto com cores.
+
 `amssymb`: Símbolos matemáticos.
-`graphicx`: Inclusão de imagens.
-`color`: Suporte a cores no texto.
-`titlesec`: Formatação de títulos e seções.
+
 `fancyhdr`: Personalização dos cabeçalhos e rodapés.
+
 `enumitem`: Personalização de listas.
+
 `pifont`: Símbolos adicionais.
 
 ## Instruções de Uso
