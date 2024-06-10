@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:10,732
+\documentclass{report}
+
+2
+00:00:10,732 --> 00:00:29,899
+\usepackage[utf8]{inputenc}
+
+3
+00:00:29,899 --> 00:00:48,965
+\usepackage[brazil]{babel}
+
+4
+00:00:48,965 --> 00:01:07,432
+\usepackage[colorlinks]{hyperref}
+
+5
+00:01:07,432 --> 00:01:21,799
+\usepackage{amssymb}
+
+6
+00:01:21,799 --> 00:01:35,932
+\usepackage{fancyhdr}
+
+7
+00:01:35,932 --> 00:01:59,932
+\usepackage{enumitem}
+
+8
+00:01:59,932 --> 00:03:08,266
+\newlist{todolist}{itemize}{2}
+
+9
+00:03:08,266 --> 00:04:04,699
+\setlist[todolist]{label=$\square$}
+
+10
+00:04:04,699 --> 00:04:19,699
+\usepackage{pifont}
+
+11
+00:04:19,699 --> 00:05:15,166
+\newcommand{\cmark}{\ding{51}}
+
+12
+00:05:15,166 --> 00:05:48,765
+\newcommand{\xmark}{\ding{55}}
+
+13
+00:05:48,765 --> 00:07:36,266
+\newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\cmark}}
+
+14
+00:07:36,266 --> 00:08:14,699
+\hspace{-2.5pt}}
+
+15
+00:08:14,699 --> 00:09:38,965
+\newcommand{\wontfix}{\rlap{$\square$}{\large\hspace{1pt}\xmark}}
+
+16
+00:09:38,965 --> 00:09:50,299
+\begin{document} ... \end{document}
+
+17
+00:09:50,299 --> 00:10:30,432
+\title{Estudio comparativo de métodos de análisis de riesgos de seguridad de la información}
+
+18
+00:10:30,432 --> 00:10:46,932
+\author{Deise Freire}
+
+19
+00:10:46,932 --> 00:10:49,932
+\date{\today}
+
+20
+00:10:49,932 --> 00:11:21,532
+\maketitle
+
+21
+00:11:21,532 --> 00:11:55,499
+\fancypagestyle{plain}{
+
+22
+00:11:55,499 --> 00:13:19,566
+\fancyhead[L]{\color{black}\sffamily\bfseries Perguntas e Respostas}}
+
+23
+00:13:19,566 --> 00:14:22,932
+\pagestyle{plain}
+
+24
+00:14:22,932 --> 00:14:41,432
+\begin{itemize} ... \end{itemize}
+
+25
+00:14:41,432 --> 00:15:10,066
+\item ¿Qué importancia tiene el análisis de riesgos de TI para las pequeñas empresas?
+
+26
+00:15:10,066 --> 00:15:36,566
+\begin{todolist} ... \end{todolist}
+
+27
+00:15:36,566 --> 00:16:57,865
+\item[\done] El análisis de riesgos de TI es crucial para identificar y mitigar los riesgos que podrían dañar los sistemas de información y los datos de una empresa.
+
+28
+00:17:26,965 --> 00:17:45,000
+\begin{itemize} ... \end{itemize}
+
+29
+00:17:45,000 --> 00:18:18,832
+\item ¿Cuál es el problema con la selección de métodos de análisis de riesgos en las pequeñas empresas?
+
+30
+00:18:18,832 --> 00:18:37,099
+\begin{todolist} ... \end{todolist}
+
+31
+00:18:37,099 --> 00:19:47,099
+\item[\done] Las pequeñas empresas suelen elegir métodos inadecuados, lo que da lugar a un análisis de riesgos deficiente.
+
+32
+00:20:25,033 --> 00:20:40,099
+\begin{itemize} ... \end{itemize}
+
+33
+00:20:40,099 --> 00:21:07,299
+\item ¿Cómo puede ayudar una estrategia adecuada de análisis de riesgos?
+
+34
+00:21:07,299 --> 00:21:25,066
+\begin{todolist} ... \end{todolist}
+
+35
+00:21:25,066 --> 00:22:39,832
+\item[\done] Una estrategia adecuada puede ayudar a las pequeñas empresas a elegir el método de análisis de riesgos que mejor se adapte a sus necesidades.
+
+36
+00:22:39,832 --> 00:23:29,732
+\begin{todolist} ... \end{todolist}
+
+37
+00:23:29,732 --> 00:23:50,199
+\item ¿Cuántos métodos de análisis de riesgos existen?
+
+38
+00:23:57,799 --> 00:24:10,666
+\begin{todolist} ... \end{todolist}
+
+39
+00:24:10,666 --> 00:25:14,699
+\item[\done] Hay muchos métodos de análisis de riesgos disponibles, cada uno con sus características y propósitos específicos.
+
+40
+00:25:14,699 --> 00:25:37,965
+\begin{itemize} ... \end{itemize}
+
+41
+00:25:37,965 --> 00:26:08,499
+\item ¿Cuál es la mejor manera de elegir entre métodos de análisis de riesgos?
+
+42
+00:26:08,499 --> 00:26:20,399
+\begin{todolist} ... \end{todolist}
+
+43
+00:26:20,399 --> 00:27:07,899
+\item[\done] La mejor manera es compararlos según criterios como el enfoque,
+
+44
+00:27:07,899 --> 00:27:41,865
+nivel de conocimiento requerido, parámetros de entrada y resultados.
+
+45
+00:28:43,033 --> 00:28:58,932
+\begin{itemize} ... \end{itemize}
+
+46
+00:28:58,932 --> 00:29:24,965
+\item ¿Cuál es el beneficio de utilizar criterios objetivos al comparar métodos?
+
+47
+00:29:24,965 --> 00:29:53,499
+\begin{todolist} ... \end{todolist}
+
+48
+00:29:53,499 --> 00:31:17,099
+\item[\done] Permite a las empresas comparar diferentes metodologías de manera imparcial y tomar una decisión más informada sobre cuál es la mejor.
+
+49
+00:31:42,099 --> 00:31:54,832
+\begin{itemize} ... \end{itemize}
+
+50
+00:31:54,832 --> 00:32:23,099
+\item ¿Qué importancia tiene el análisis de riesgos en la gestión empresarial?
+
+51
+00:32:23,099 --> 00:32:36,199
+\begin{todolist} ... \end{todolist}
+
+52
+00:32:36,199 --> 00:33:49,499
+\item[\done] El análisis de riesgos es crucial para identificar y evaluar los riesgos que podrían afectar el éxito de una organización.
+
+53
+00:34:06,699 --> 00:34:15,432
+\begin{itemize} ... \end{itemize}
+
+54
+00:34:15,432 --> 00:34:43,000
+\item ¿Cuántas metodologías de análisis de riesgos existen?
+
+55
+00:34:43,000 --> 00:35:09,865
+\begin{todolist} ... \end{todolist}
+
+56
+00:35:09,865 --> 00:36:01,865
+\item[\done] Hay varias metodologías disponibles, cada una con sus propias características y ventajas. 
+
+57
+00:37:35,765 --> 00:37:48,566
+\section*{Referencia}
+
+58
+00:37:48,566 --> 00:39:46,832
+AGRAWAL, Vivel. A Comparative Study on Information Security Risk Analysis Methods. J. Comput., v. 12, n. 1, p. 57-67, 2017.
+
