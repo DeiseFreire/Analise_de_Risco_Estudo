@@ -84,7 +84,7 @@
 
 22
 00:11:55,499 --> 00:13:19,566
-\fancyhead[L]{\color{black}\sffamily\bfseries Perguntas e Respostas}}
+\fancyhead[L]{\color{black}\sffamily\bfseries Preguntas y respuestas}}
 
 23
 00:13:19,566 --> 00:14:22,932
