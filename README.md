@@ -1,4 +1,4 @@
-![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) [![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://pt.overleaf.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=05ICeirdJQk&list=PLZpH1iUcDo5jySyW1zOz5PV4Yg84VV-fg) 
+![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) [![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)](https://pt.overleaf.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=-DzvCfSjjl0&list=PLZpH1iUcDo5imkX76BlUiDaQ5yJxYUlxi&index=3)
 
 ## Estudo Comparativo de Métodos de Análise de Riscos de Segurança da Informação
 
